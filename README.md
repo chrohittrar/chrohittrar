@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working on:** `Elevate: Job Board`
-- 🌱 **Exploring:** `Spring Boot`
+- 🌱 **Exploring:** `.NET Framework`
 - 💬 **Let's Talk About:** `Java`, `React`, `Spring`
 - 📫 **Reach Me At:** `rohit.kumar253324@gmail.com`
 - ⚡ **Fun Fact:** *I think I'm funny 😉*
