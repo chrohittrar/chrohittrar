@@ -43,12 +43,14 @@
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
@@ -67,22 +69,54 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Statistics</h2>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrohittrar&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrohittrar&theme=tokyonight" />
+  <details>
+    <summary>💫 Detailed Stats</summary>
+    <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrohittrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrohittrar&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrohittrar&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=38B2AC&line=38B2AC&point=38B2AC&hide_border=true" alt="Activity Graph" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrohittrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&layout=compact" alt="Most Used Languages" width="40%"/>
+</div>
+  </details>
   
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrohittrar&layout=compact&theme=tokyonight" />
+  <!-- Quick Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrohittrar&theme=tokyonight" alt="Profile Details" width="100%"/>
+  
+  <br/><br/>
+  
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrohittrar&theme=tokyonight" alt="Repos per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrohittrar&theme=tokyonight" alt="Most Commit Language"/>
+  </div>
+  
+  <br/>
+  
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrohittrar&theme=tokyonight" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chrohittrar&theme=tokyonight" alt="Productive Time"/>
+  </div>
+</div>
 </div>
 
 <!-- Trophies -->
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
+  <h2>🏆 Achievements</h2>
   
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=chrohittrar&theme=tokyonight&column=8" />
+  <!-- Modern Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=chrohittrar&theme=discord&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&title=MultiLanguage,Stars,Commits,PullRequest,Repositories,Followers,Issues" alt="GitHub Trophies"/>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
