@@ -1,131 +1,88 @@
-<h1 align="center" style="font-family: 'Arial Black', sans-serif;">✨ Rohit Kumar ✨</h1>
-<h3 align="center" style="font-family: 'Segoe UI', sans-serif;">A Passionate Full Stack Developer from 🇮🇳</h3>
+<!-- Header -->
+<div align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=1000&color=2C9AD1&center=true&vCenter=true&random=false&width=900&height=70&lines=Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Welcome Banner" />
+  </h1>
+  
+  # ✨ Rohit Kumar ✨
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AD1&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </p>
+  
+  <a href="https://komarev.com/ghpvc/?username=chrohittrar">
+    <img src="https://komarev.com/ghpvc/?username=chrohittrar&style=for-the-badge&color=2C9AD1">
+  </a>
+  <a href="https://twitter.com/chrohittrar">
+    <img src="https://img.shields.io/twitter/follow/chrohittrar?logo=twitter&style=for-the-badge&color=2C9AD1">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrohittrar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/chrohittrar" target="blank">
-    <img src="https://img.shields.io/twitter/follow/chrohittrar?logo=twitter&style=for-the-badge" alt="Twitter Followers" />
-  </a>
-</p>
+<!-- About Me -->
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <img align="right" width="40%" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
+  
+  ```typescript
+  const rohit = {
+    currentlyWorking: "Elevate: Job Board",
+    exploring: ".NET Framework",
+    askMeAbout: ["Java", "React", "Spring"],
+    email: "rohit.kumar253324@gmail.com",
+    funFact: "I think I'm funny 😉",
+    location: "India 🇮🇳"
+  };
+  ```
+</div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chrohittrar&margin-w=15&margin-h=15&column=7&theme=algolia" alt="Trophies" />
-  </a>
-</p>
+<!-- Tech Stack -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
----
+<!-- Connect with me -->
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chrohittrar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitkumar1807)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abeyrrrohit)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chrohittrar)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/chrohittrar)
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chrohittrar)
+</div>
 
-### 👨‍💻 About Me
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrohittrar&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrohittrar&theme=tokyonight" />
+  
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrohittrar&layout=compact&theme=tokyonight" />
+</div>
 
-- 🔭 **Currently working on:** `Elevate: Job Board`
-- 🌱 **Exploring:** `.NET Framework`
-- 💬 **Let's Talk About:** `Java`, `React`, `Spring`
-- 📫 **Reach Me At:** `rohit.kumar253324@gmail.com`
-- ⚡ **Fun Fact:** *I think I'm funny 😉*
+<!-- Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=chrohittrar&theme=tokyonight&column=8" />
+</div>
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/chrohittrar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rohitkumar1807" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://instagram.com/abeyrrrohit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
-  </a>
-  <a href="https://medium.com/@chrohittrar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/chrohittrar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/chrohittrar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@chrohittrar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" style="margin: 10px;" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrohittrar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=chrohittrar&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrohittrar&theme=algolia" alt="GitHub Streak" />
-</p>
-
----
+<!-- Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
